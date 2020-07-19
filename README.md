@@ -1,2 +1,1 @@
 # SpaceXApi-GraphQL
-# SpaceXApi-GraphQL
